@@ -1,4 +1,4 @@
-# csc415-p2
+# C Shell
 
 ## To build the project:
     On your terminal, navigate to the project directory. Then execute:
